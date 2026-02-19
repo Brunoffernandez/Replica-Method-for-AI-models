@@ -1,7 +1,7 @@
 # Replica Method Applied to a Neuronal System
 
 ## Overview
-This repository contains the writeup and simulation code for the MMT project **"Replica method applied to a neuronal system"** by Bruno F. (2025). The project explores the statistical mechanics of neural networks, specifically focusing on the **Hopfield Network** and the **Continuous Spherical Perceptron**. It aims to validate theoretical predictions derived from the Gardner analysis and the Replica trick regarding phase transitions and critical storage capacities.
+This repository contains the writeup and simulation code for the MMT project **"Replica method applied to a neuronal system"**. The project explores the statistical mechanics of neural networks, specifically focusing on the **Hopfield Network** and the **Continuous Spherical Perceptron**. It aims to validate theoretical predictions derived from the Gardner analysis and the Replica trick regarding phase transitions and critical storage capacities.
 
 ## Repository Contents
 
